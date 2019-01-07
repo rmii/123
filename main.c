@@ -10,7 +10,7 @@ int main()
         printf("A[i]=%d",A[i]);
     }*/
 
-    printf("wonderful!!!");
+    printf("so good !!!!!!!");
     return 0;
 
 }
