@@ -3,6 +3,14 @@
 
 int main()
 {
-    printf("Hello world!\n");
+   /* int A[3]={0,1,2};
+
+    for(i=0;i<3;i++)
+    {
+        printf("")
+    }*/
+
+    printf("beautiful!!");
     return 0;
+
 }
