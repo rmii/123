@@ -3,11 +3,11 @@
 
 int main()
 {
-   /* int A[3]={0,1,2};
+    /*int A[3]={0,1,2};
 
     for(i=0;i<3;i++)
     {
-        printf("")
+        printf("A[i]=%d",A[i]);
     }*/
 
     printf("wonderful!!!");
